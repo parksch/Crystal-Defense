@@ -1,0 +1,23 @@
+[
+  {
+    "index": "Stage1",
+    "title": "Prairie",
+    "map": "Prairie_Normal",
+    "spawnTime": 1.0,
+    "monsters": [
+      "Slime",
+      "Goblin"
+    ],
+    "bossMonster": "Slime",
+    "addValue": 0.3,
+    "bossAdd": 5.0,
+    "life": 10,
+    "wave": 10,
+    "startDraw": 100,
+    "spawn": [
+      "Single",
+      "Single",
+      "Mix_2"
+    ]
+  }
+]

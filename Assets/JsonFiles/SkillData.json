@@ -1,0 +1,12 @@
+[
+  {
+    "index": "SwordAura",
+    "targetState": 0,
+    "value": 1.5,
+    "startType": 0,
+    "targetFallow": false,
+    "destoryType": 0,
+    "optionalValue": 3.0,
+    "optionalValue2": 0.0
+  }
+]

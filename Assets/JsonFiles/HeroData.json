@@ -1,0 +1,18 @@
+[
+  {
+    "index": "Knight",
+    "uiPrefab": "UIKnight",
+    "prefab": "Knight",
+    "title": "Knight",
+    "attack": 10,
+    "attackSpeed": 0.8,
+    "attackRange": 3.5,
+    "trait": [
+      "Swordsman"
+    ],
+    "skill": "SwordAura",
+    "addValue": 0.15,
+    "attackPrefab": "Slash",
+    "skillPoint": 50
+  }
+]

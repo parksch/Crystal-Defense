@@ -1,0 +1,11 @@
+[
+  {
+    "index": "Slash",
+    "prefab": "Slash",
+    "startType": 0,
+    "targetFallow": false,
+    "destoryType": 1,
+    "optionalValue": 0.5,
+    "optionalValue2": 0.0
+  }
+]

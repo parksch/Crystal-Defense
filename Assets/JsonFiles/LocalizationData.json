@@ -1,0 +1,122 @@
+[
+  {
+    "index": "Stage",
+    "kr": "스테이지",
+    "en": "Stage"
+  },
+  {
+    "index": "Yes",
+    "kr": "예",
+    "en": "Yes"
+  },
+  {
+    "index": "No",
+    "kr": "아니요",
+    "en": "No"
+  },
+  {
+    "index": "OK",
+    "kr": "확인",
+    "en": "OK"
+  },
+  {
+    "index": "QuitDetail",
+    "kr": "게임을 종료하시겠습니까?",
+    "en": "Do you want to exit the game?"
+  },
+  {
+    "index": "Alarm",
+    "kr": "알림",
+    "en": "Alarm"
+  },
+  {
+    "index": "Start",
+    "kr": "시작",
+    "en": "Start"
+  },
+  {
+    "index": "Prairie",
+    "kr": "시작의 초원",
+    "en": "Field of Beginnings"
+  },
+  {
+    "index": "Draw",
+    "kr": "뽑기",
+    "en": "Draw"
+  },
+  {
+    "index": "Select",
+    "kr": "선택",
+    "en": "Select"
+  },
+  {
+    "index": "ReturnStage",
+    "kr": "스테이지 선택창으로 돌아가시겠습니까?",
+    "en": "Return to the stage selection screen?"
+  },
+  {
+    "index": "Cancel",
+    "kr": "취소",
+    "en": "Cancel"
+  },
+  {
+    "index": "Redraw",
+    "kr": "다시뽑기",
+    "en": "Redraw"
+  },
+  {
+    "index": "Start",
+    "kr": "시작",
+    "en": "Start"
+  },
+  {
+    "index": "Knight",
+    "kr": "기사",
+    "en": "Knight"
+  },
+  {
+    "index": "Attack",
+    "kr": "공격력",
+    "en": "Attack"
+  },
+  {
+    "index": "AttackSpeed",
+    "kr": "공격속도",
+    "en": "AttackSpeed"
+  },
+  {
+    "index": "AttackRange",
+    "kr": "사거리",
+    "en": "AttackRange"
+  },
+  {
+    "index": "Swordsman",
+    "kr": "검사",
+    "en": "Swordsman"
+  },
+  {
+    "index": "Trait",
+    "kr": "특성",
+    "en": "Trait"
+  },
+  {
+    "index": "Skill",
+    "kr": "스킬",
+    "en": "Skill"
+  },
+  {
+    "index": "SwordAura",
+    "kr": "검기 날리기",
+    "en": "Sword Aura"
+  },
+  {
+    "index": "SummonHero",
+    "kr": "표시된 곳에 터치하여 유닛을 배치하세요.",
+    "en": "Deploy your unit on the highlighted spot."
+  },
+  {
+    "index": "Defeat",
+    "kr": "생명이 다하여 패배하였습니다.",
+    "en": "Defeated. Your life has been depleted."
+  }
+]

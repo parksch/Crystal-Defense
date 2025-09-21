@@ -1,0 +1,22 @@
+[
+  {
+    "index": "Slime",
+    "hp": 20,
+    "speed": 3.0,
+    "effect": [
+      0
+    ],
+    "addCoin": 15,
+    "subtractionLife": 1
+  },
+  {
+    "index": "Goblin",
+    "hp": 10,
+    "speed": 6.0,
+    "effect": [
+      0
+    ],
+    "addCoin": 20,
+    "subtractionLife": 2
+  }
+]
