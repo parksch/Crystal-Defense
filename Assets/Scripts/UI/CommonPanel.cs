@@ -1,10 +1,6 @@
-using JsonClass;
 using System;
 using TMPro;
-using Unity.VisualScripting;
 using UnityEngine;
-using UnityEngine.Animations.Rigging;
-using UnityEngine.UIElements;
 
 public class CommonPanel : BasePanel
 {
