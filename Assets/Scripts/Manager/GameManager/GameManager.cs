@@ -1,8 +1,6 @@
 using JsonClass;
 using System;
-using Unity.VisualScripting;
 using UnityEngine;
-using UnityEngine.Splines;
 
 public partial class GameManager : Singleton<GameManager>
 {
