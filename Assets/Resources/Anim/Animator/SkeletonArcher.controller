@@ -93,7 +93,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: bfa87b3bb25a960479ee2bdef392db9b, type: 2}
+  m_Motion: {fileID: 7400000, guid: 0bc87748c6b8eff4781a1fe073d4d583, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -120,7 +120,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: e32cc0e686f35354f81e097405ebe2ec, type: 2}
+  m_Motion: {fileID: 7400000, guid: 32b499d7c1a88f5429d458ca6b19d457, type: 2}
   m_Tag: 
   m_SpeedParameter: AttackSpeed
   m_MirrorParameter: 
@@ -157,7 +157,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Knight
+  m_Name: SkeletonArcher
   serializedVersion: 5
   m_AnimatorParameters:
   - m_Name: Attack
@@ -212,7 +212,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 56cf007ff4f276044b5414ec8d9094e6, type: 2}
+  m_Motion: {fileID: 7400000, guid: 286315020c31f7f4988209a871570522, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
